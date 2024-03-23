@@ -5,7 +5,7 @@ Welcome to our project! 🚀
 This repository is a fork of the original project, dedicated to providing English translations.
 
 ### Translation Progress:
-[####----------------] 30%
+[--------------------] 30%
 
 ## Project Overview:
 
