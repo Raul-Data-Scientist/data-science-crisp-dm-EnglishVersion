@@ -1,7 +1,7 @@
 # Book Settings
-title: "Data Science Process using CRISP-DM"
-author: "Syahrul Hamdani"
-logo: assets/images/bitlabs.png
+title: "Data Science Process using CRISP-DM - Translate Version 1.0"
+author: "raul-data-scientist"
+logo: https://tse2.mm.bing.net/th/id/OIG3.QJbeEUe_IsQJM.U7sSh_?w=1024&h=1024&rs=1&pid=ImgDetMain
 copyright: "Bitlabs Academy 2021"
 bibtex_reference_style: author_year  # or label, super, \supercite
 
