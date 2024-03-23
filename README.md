@@ -5,9 +5,20 @@ Welcome to our project! 🚀
 This repository is a fork of the original project, dedicated to providing English translations.
 
 ### Translation Progress:
-[--------------------] 00%
+[####----------------] 30%
 
-Our mission is to enhance accessibility for English-speaking users by translating the content into English. By offering translations, we aim to widen the project's audience and maximize its impact, ensuring that more users can benefit from its features and functionalities.
+## Project Overview:
+
+The **Basic Data Science Library** project aims to serve as a comprehensive resource for learning Python applied in data science, with a focus on the CRIPS-DM methodology. 
+
+Data scientists spend a significant portion of their time exploring and understanding data. According to IBM, approximately 80% of a data scientist's time is spent on data exploration. To effectively accomplish this task, data scientists often rely on third-party libraries in Python that are efficient in processing and analyzing large datasets. Some commonly used libraries include:
+
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+Hence, our project introduces and explores these four libraries, providing insights and practical exercises for data exploration using public datasets.
 
 ## How You Can Help:
 
