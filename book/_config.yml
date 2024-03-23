@@ -19,7 +19,7 @@ parse:
     - substitution
 
 repository:
-  url: https://github.com/syahrulhamdani/data-science-crisp-dm
+  url: https://github.com/Raul-Data-Scientist/data-science-crisp-dm-EnglishVersion
   branch: notebooks
   path_to_book: book
 
@@ -27,7 +27,7 @@ repository:
 html:
   use_repository_button: true
   use_issues_button: true
-  google_analytics_id: "G-VND61T1FVN"
+  google_analytics_id: "G-VND61T1FVN" # (Need to create one and change)
 
 # Exeuction Settings
 execute:
