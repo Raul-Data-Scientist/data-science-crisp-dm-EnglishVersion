@@ -5,7 +5,7 @@ Welcome to our project! 🚀
 This repository is a fork of the original project, dedicated to providing English translations from Indonesian it is a [Jupyter book](https://syahrulhamdani.github.io/data-science-crisp-dm/) from a workshop by Bitlabs Academy.
 
 ### Translation Progress:
-[--------------------] 30%
+[--------------------] 00%
 
 ## Project Overview:
 
