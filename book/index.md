@@ -1,50 +1,50 @@
-# Selamat Datang!
+# Welcome!
 
-Halo, semuanya 👋
+Hello everyone 👋
 
-Selamat datang di Workshop *Data Science Process using CRISP-DM* oleh Bitlabs Academy. Workshop ini bertujuan untuk mengenalkan library yang sering digunakan oleh data scientist dalam *daily basis*, baik untuk proyek *analytics*, *machine learning*, ataupun *exploratory*. Jika kamu belum pernah menulis kode menggunakan Python, kamu bisa cek dan mencoba [Data Scientist Starter Kit](https://syahrulhamdani.github.io/data-scientist-starter-kit/) yang dikembangkan oleh Bitlabs Academy.
-
+Welcome to the Data Science Process using CRISP-DM workshop by Bitlabs Academy. This workshop aims to introduce libraries frequently used by data scientists on a daily basis, whether for analytics, machine learning, or exploratory projects. If you've never written code using Python, you can check out and try the [Data Scientist Starter Kit]([link unavailable](https://syahrulhamdani.github.io/data-scientist-starter-kit/) developed by Bitlabs Academy and translate by Raul Rodrigues (Using Llama 3)
 
 ## Prerequisites
 
-Untuk mengikuti workshop ini, *sangat direkomendasikan* kalau kamu:
-1. Memahami dasar-dasar pemrograman Python
-2. Memahami konsep *modularity* dalam Python dan kaitannya dengan *function*, *class*, serta *packages*.
-3. Pernah mendapat materi *matematika* dan/atau *statistika* setingkat SMA.
+To follow this workshop, it is highly recommended that you:
+1. Understand the basics of Python programming
+2. Understand the concept of modularity in Python and its relation to functions, classes, and packages.
+3. Have had mathematics and/or statistics material at the high school level.
 
 
-## Workshop Outlines
+## Workshop Outline
 
-Selama $\pm 2$ hari, kita akan sama-sama belajar mengenai:
-* Library yang sering digunakan oleh Data Scientist
+During approximately 2 days, we will learn together about:
+
+* Libraries frequently used by Data Scientists
 	* NumPy
 	* Pandas
 	* Matplotlib/Seaborn
-* Alur kerja data science menggunakan CRISP-DM
-* Portfolio Workshop - Analyzing YouTube Video Trending Indonesia
+* Data science workflow using CRISP-DM
+* Workshop Portfolio - Analyzing YouTube Video Trends in Indonesia
 
 
-## Cara Menggunakan *Jupyter Book*
+## How to Use *Jupyter Book*
 
-Kita sudah sediakan *notebook* untuk kamu gunakan selama workshop sehingga kamu tidak perlu repot menyiapkan segala sesuatu sendiri. Kamu bisa arahkan *cursor* ke gambar roket di kanan atas, lalu pilih antara *Binder*, *Colab*, atau *Live Code*. 
-* *Binder* akan membuka notebook menggunakna platform *mybinder*.
-* *Colab* akan membuka notebook menggunakan platform *Google Colab* (**recommended**).
-* *Live Code* akan menggunakan laman website untuk bisa menjalankan kode secara *live*.
+We have prepared a notebook for you to use during the workshop, so you don't need to bother setting everything up yourself. You can direct your cursor to the rocket image in the top right corner and choose between *Binder*, *Colab*, or *Live Code*.
+* *Binder* will open the notebook using the *mybinder* platform.
+* *Colab* will open the notebook using the *Google Colab* platform (**recommended**).
+* *Live Code* will use the website to run the *code live*.
 
 
 ## Tips
 
 ```{tip}
-Kita sarankan kamu menggunakan *Google Colab* supaya kamu bisa akses notebook yang sudah kamu buat sendiri.
+We recommend using *Google Colab* so you can access the notebook you created.
 ```
 
-Terakhir, kamu sangat dianjurkan untuk langsung bertanya jika mengalami kesulitan, isu, eror, atau ketidakpahaman terkait istilah-istilah yang mungkin nanti muncul.
+Finally, you are strongly encouraged to ask directly if you experience difficulties, issues, errors, or misunderstandings regarding terms that may arise.
 
 ```{tip}
-Jangan terlalu kaku dan silakan sesantai mungkin, tapi tetap harus menghormati peserta lainnya 🙏
+We recommend using *Google Colab* so you can access the notebook you created. 🙏
 ```
 
-**_Selamat belajar!_**
+**_Good luck with your learning!_**
 
 ```{image} assets/images/bitlabs.png
 :alt: Bitlabs Academy
