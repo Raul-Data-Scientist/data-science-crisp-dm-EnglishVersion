@@ -2,7 +2,7 @@
 
 Hello everyone 👋
 
-Welcome to the Data Science Process using CRISP-DM workshop by Bitlabs Academy. This workshop aims to introduce libraries frequently used by data scientists on a daily basis, whether for analytics, machine learning, or exploratory projects. If you've never written code using Python, you can check out and try the [Data Scientist Starter Kit]([link unavailable](https://syahrulhamdani.github.io/data-scientist-starter-kit/) developed by Bitlabs Academy and translate by Raul Rodrigues (Using Llama 3)
+Welcome to the Data Science Process using CRISP-DM workshop by Bitlabs Academy. This workshop aims to introduce libraries frequently used by data scientists on a daily basis, whether for analytics, machine learning, or exploratory projects. If you've never written code using Python, you can check out and try the [Data Scientist Starter Kit](https://syahrulhamdani.github.io/data-scientist-starter-kit/) developed by Bitlabs Academy and translate by [Raul Rodrigues](https://github.com/raulfbr) (Using Llama 3)
 
 ## Prerequisites
 
