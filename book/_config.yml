@@ -2,7 +2,7 @@
 title: "Data Science Process using CRISP-DM - Translate Version 1.0"
 author: "raul-data-scientist"
 logo: https://tse2.mm.bing.net/th/id/OIG3.QJbeEUe_IsQJM.U7sSh_?w=1024&h=1024&rs=1&pid=ImgDetMain
-copyright: "All credits to Bitlabs Academy"
+copyright: "All credits to Bitlabs Academy - Raul Rodrigues"
 bibtex_reference_style: author_year  # or label, super, \supercite
 
 parse:
@@ -19,7 +19,7 @@ parse:
     - substitution
 
 repository:
-  url: https://github.com/Raul-Data-Scientist/data-science-crisp-dm-EnglishVersion
+  url: https://github.com/raulfbr/data-science-crisp-dm-EnglishVersion
   branch: notebooks
   path_to_book: book
 
